@@ -1,5 +1,5 @@
 # Bank_Marketing_Analysis
-# Summary:
+## Summary:
 A marketing campaign is a long-term strategy for promoting a product or service across several
 media. It typically serves only one objective, which is to increase the sales of a given product. A
 Term Deposit is a deposit that a bank or financial institution offers with a fixed rate (often better
